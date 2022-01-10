@@ -1,1 +1,11 @@
+Hi Visitor! There is Assignment #1 in React course by Max Schwarzmuller. The code was changed in : 
 
+1. /src/App.js    
+
+2. /src/components_/EntryDate.js  
+  
+3. /src/components_/Expence_Item.js. 
+
+In case you want to run the code on your machine, I've added the remaining stuff of CSS, HTML etc. Just download this to some folder on your machine and run from there in cmd/Terminal: >> npm install  - in order to build node_modules directory. Cannot upload it due to its size. 
+
+Regards, Sergey
