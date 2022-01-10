@@ -1,0 +1,26 @@
+
+.expence_date_ {
+    width: 10%;
+    float: left;
+    display: block;
+    background-color: rgb(20, 48, 141);
+}
+
+.expence_date_ > * {
+    font-size: 9pt;
+}
+
+.month_and_day_ {
+    position: relative;
+    width: 100%;
+    display: inline-flex;
+    text-align: center;
+    /* Centering texts in a div: */
+    justify-content: center;
+    align-items: center;
+}
+
+.month_and_day_ > div {
+    padding-left: 3px;
+    padding-right: 3px;
+}
